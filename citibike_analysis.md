@@ -20,8 +20,8 @@ In addtion to that, the bikes are used heavily. The gender and age breakdown ind
 Overall I would not recommend investment into a Des Moine bikesharing program. I don't believe Des Moine has the population density need for a successful program.
 
 ## Resources
-https://www.catchdesmoines.com/
-https://iowadot.gov/iowabikes/bikemap/home.aspx
-http://www.wdm.iowa.gov/home/showdocument?id=12683
-https://www.dsm.city/departments/parks_and_recreation-division/places/trails.php
-https://www.census.gov/quickfacts/desmoinescityiowa
+https://www.catchdesmoines.com/  
+https://iowadot.gov/iowabikes/bikemap/home.aspx  
+http://www.wdm.iowa.gov/home/showdocument?id=12683  
+https://www.dsm.city/departments/parks_and_recreation-division/places/trails.php  
+https://www.census.gov/quickfacts/desmoinescityiowa  
